@@ -1,4 +1,4 @@
-![Merge Upstream](https://github.com/Zheng-J/Script-Loon/actions/workflows/guding-loon-script-sync.yml/badge.svg)
+![Merge Upstream](https://github.com/Zheng-JD/Script-Loon/blob/main/.github/workflows/guding-loon-script-sync.yml/badge.svg)
 
 频道：https://t.me/Guding88 
 群组：https://t.me/GudingChat 
