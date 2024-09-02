@@ -1,6 +1,4 @@
-![](http://profile-counter.glitch.me/Guding88_Rewrite/count.svg)
-
-仓库内容仅限测试学习使用，请勿用于其他途径
+![Merge Upstream](https://github.com/Zheng-J/Script-Loon/actions/workflows/merge-upstream.yml/badge.svg)
 
 频道：https://t.me/Guding88 
 群组：https://t.me/GudingChat 
